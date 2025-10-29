@@ -13,9 +13,9 @@ const posts = await getCollection("blog");
 let tags = getUniqueTags(posts);
 ---
 
-<Layout title={`主题 | ${SITE.title}`}>
+<Layout title={`标签 | ${SITE.title}`}>
   <Header />
-  <Main pageTitle="主题" pageDesc="文章相关的主题.">
+  <Main pageTitle="标签" pageDesc="全部文章相关的标签.">
     <ul>
       {tags.map(({ tag, tagName }) => <Tag {tag} {tagName} size="lg" />)}
     </ul>

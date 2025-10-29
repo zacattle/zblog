@@ -6,4 +6,8 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=for-the-badge)](http://commitizen.github.io/cz-cli/)
 
 博客，记录一些生活的痕迹.
-**开发框架** - [Astro](https://github.com/satnaing/astro-paper/)
+
+**开发框架**
+
+- [Astro](https://github.com/withastro/astro)
+- [astro-paper](https://github.com/satnaing/astro-paper)
