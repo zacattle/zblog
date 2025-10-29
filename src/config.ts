@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/zacattle/zblog/issues",
+    url: "https://github.com/zacattle/zblog/edit/main/",
   }, // 是否允许用户对文章提建议
   dynamicOgImage: true, // 是否启用动态OG图片生成,文章很多时建议通过trade-off关闭
   dir: "ltr", // "rtl" | "auto" // 网站文字方向 rtl为从右到左 auto为根据语言自动判断
