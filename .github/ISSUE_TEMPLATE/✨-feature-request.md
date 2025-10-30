@@ -1,19 +1,9 @@
 ---
-name: "✨ Feature Request"
-about: Suggest an idea for improving AstroPaper
+name: "✨ 新特征"
+about: 新特征建议
 title: "[Feature Request]: "
 labels: enhancement
 assignees: ""
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**建议清晰的描述你的想法建议或者问题**

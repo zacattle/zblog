@@ -1,6 +1,6 @@
 ---
-name: "\U0001F41E Bug report"
-about: Report a bug or unexpected behavior in AstroPaper
+name: "\U0001F41E Bug 报告"
+about: 报告存在Bug
 title: "[BUG]: "
 labels: bug
 assignees: ""

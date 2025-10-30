@@ -1,6 +1,6 @@
 ---
-name: "\U0001F4DD Documentation Improvement"
-about: Propose updates or improvements to the documentation/blog posts
+name: "\U0001F4DD 文档问题"
+about: 文档问题
 title: "[Docs]: "
 labels: documentation
 assignees: ""
