@@ -21,9 +21,7 @@ html[data-theme="dark"] {
 }
 
 @theme inline {
-  --font-chinese:
-    Helvetica, "Hiragino Sans GB", "Microsoft Yahei", "微软雅黑", Arial,
-    sans-serif;
+  --font-chinese: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei";
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-accent: var(--accent);
